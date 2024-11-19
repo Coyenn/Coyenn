@@ -5,5 +5,5 @@
 </p>
 <p style="font-family: monospace">
   My Website:
-  <a href="https://tim-ritter.com">tim-ritter.com</a>
+  <a href="https://tim.cv">tim.cv</a>
 </p>
